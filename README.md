@@ -1,4 +1,4 @@
-# Ex04 Simple Calculator - React Project
+# Ex04 Simple Calculator - React Project.
 ## Date:13.03.2026
 ## NAME:RADHIMEENA M
 ## REG NO:212223040159
